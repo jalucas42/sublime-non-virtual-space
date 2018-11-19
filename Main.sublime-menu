@@ -1,0 +1,21 @@
+[
+    {
+        "id": "help"
+    },
+    {
+        "id": "nvs",
+        "caption": "Non-Virtual Space",
+        "children": 
+        [
+            {
+                "command": "nvs_append_space",
+                "caption": "Append whitespace",            
+            },
+            {
+                "command": "nvs_remove_space",
+                "caption": "Remove whitespace",            
+            },
+        ],
+    },
+
+]
