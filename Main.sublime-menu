@@ -15,6 +15,10 @@
                 "command": "nvs_remove_space",
                 "caption": "Remove whitespace",            
             },
+            {
+                "command": "nvs_mark_eol",
+                "caption": "Mark EOL",            
+            },
         ],
     },
 
